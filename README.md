@@ -33,7 +33,7 @@ Python, PyTorch, Ultralytics YOLO26, RT-DETR, scikit-learn, OpenCV, pandas, NumP
 
 ## Data
 
-Public Roboflow Universe "chart-pattern-2" dataset — 1,450 candlestick images, 20 classes, YOLO-format annotations (train/val/test = 1,024 / 285 / 141). The notebook downloads it via the Roboflow API (add your own free key as a Colab secret named `roboflow_api_key`).
+Public Roboflow Universe "chart-pattern-2" dataset; 1,450 candlestick images, 20 classes, YOLO-format annotations (train/val/test = 1,024 / 285 / 141). The notebook downloads it via the Roboflow API (add your own free key as a Colab secret named `roboflow_api_key`).
 
 ## Running
 
